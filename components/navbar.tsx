@@ -13,22 +13,6 @@ export const NAVLINKS = [
     title: "Documentation",
     href: `/docs${page_routes[0].href}`,
   },
-  {
-    title: "Examples",
-    href: "#",
-  },
-  {
-    title: "Guides",
-    href: "#",
-  },
-  {
-    title: "Community",
-    href: "#",
-  },
-  {
-    title: "Blog",
-    href: "#",
-  },
 ];
 
 export function Navbar() {
