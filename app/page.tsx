@@ -18,7 +18,7 @@ export default function Home() {
         Becoming an AI Engineer
       </h1>
       <p className="mb-8 sm:text-xl max-w-[800px] text-muted-foreground">
-        Building context-aware AI systems that can adapt to the user's needs
+        Building context-aware AI systems that can adapt to the customized data 
         and preferences. We will cover the basics of generative AI, LangChain, and all the tools you need to get started.
       </p>
       <div className="flex flex-row items-center gap-5">
